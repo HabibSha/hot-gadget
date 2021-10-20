@@ -1,0 +1,35 @@
+.body{
+    font-family: 'Rubik', sans-serif;
+}
+.container{
+    margin-bottom: 20px;
+}
+.container-fluid{
+    background-color: white;
+    background-image: linear-gradient(to right, rgb(219, 113, 219), rgb(202, 25, 202));
+}
+#buy-now{
+    background-color: black;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 9px 25px;
+    cursor: pointer;
+    margin-left: 117px;
+}
+.row p{
+    color: gray;
+}
+.navbar-nav li a{
+    font-weight: 600px !important;
+    color: white !important;
+}
+.carousel-inner img{
+    width: 10px;
+}
+.card-item{
+    border: none;
+}
